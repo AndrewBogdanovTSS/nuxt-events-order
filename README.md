@@ -1,4 +1,4 @@
-# nuxt2_test
+# Nuxt Events Order
 
 > My laudable Nuxt.js project
 
